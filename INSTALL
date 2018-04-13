@@ -1,0 +1,9 @@
+Building Ottcoin
+
+See doc/readme-qt.rst for instructions on building Ottcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ottcoin.
+
+See doc/build-*.txt for instructions on building ottcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ottcoin.
